@@ -6,6 +6,7 @@ public class InfiniteLoop {
             System.out.println("Hello");
         }
 
+
         // To terminate this program press ctrl + c in the console.
     }
 }
